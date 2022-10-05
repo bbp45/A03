@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# A03
-=======
 How to use GitHub?
 
     Step 1: Download Git and WebStorm
@@ -21,4 +18,3 @@ How to use GitHub?
     Step 16: Once a new branch is created, click on "Git" and then click on "Commit" or hit "Ctrl+K"
     Step 17: Repeat Step 10, 11, and 12, but this time click on the newly created branch if it is not already selected. Then click on the "Push" button.
     Step 18: Go back to your repository on GitHub and refresh the page. An option with a button "Compare & pull request should appear" and if not then click on "Pull requests" at the top.
->>>>>>> 0815e4b (Adding content to the README file.)

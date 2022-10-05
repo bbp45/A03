@@ -18,3 +18,10 @@ How to use GitHub?
     Step 16: Once a new branch is created, click on "Git" and then click on "Commit" or hit "Ctrl+K"
     Step 17: Repeat Step 10, 11, and 12, but this time click on the newly created branch if it is not already selected. Then click on the "Push" button.
     Step 18: Go back to your repository on GitHub and refresh the page. An option with a button "Compare & pull request should appear" and if not then click on "Pull requests" at the top.
+    Step 19: Same option should appear and if not, then click on the button "New pull request" on the top right.
+    Step 20: From the "compare: master" drop down, select the newly created branch
+    Step 21: Click on the button "Create pull request"
+    Step 22: You can add a comment in the "Leave a comment," but it is not required. Then, click on the "Create pull request" one more time.
+    Step 23: Wait until the orange circles turn into blue circle with a check. It means there are not any problems with the code or whatever files you are pushing to your repository.
+    Step 24: Then, click on the "Merge pull request" button below and then "Confirm merge" to confirm merging. There will an option to delete the branch, but you do not have to.
+    Step 25: Now, you are all set!!! It might seem like a lot of steps, but once you get into the cycle of doing this for your GitHub projects, it is a piece of cake.
